@@ -40,15 +40,6 @@ Estudar boas práticas de desenvolvimento e padrões de design.
 Contribuição
 Este repositório é pessoal e voltado para aprendizado, mas sugestões e melhorias são sempre bem-vindas!
 
-3# Licença
-Este projeto é apenas para fins educacionais e não possui uma licença específica.
-
-# ☕ Learn Java
-
-Repositório com meus estudos em Java, organizado por tópicos e exemplos práticos. Ideal para acompanhar minha evolução na linguagem e servir de consulta para quem também está aprendendo.
-
----
-
 ## 📚 Conteúdo
 
 - ✅ Variáveis e Tipos de Dados  
@@ -76,9 +67,8 @@ Repositório com meus estudos em Java, organizado por tópicos e exemplos práti
 ## 🚀 Como executar os exemplos
 
 1. Clone o repositório:
-   git clone https://github.com/seu-usuario/learn-java.git
+   git clone https://github.com/adriolivdev/learn-java.git
 2. Navegue até o diretório:
-   cd learn-java
 3. Compile um arquivo .java:
    javac NomeDoArquivo.java
 
@@ -91,4 +81,7 @@ Cada pasta representa uma etapa do aprendizado.
 
 ## 🤝 Contribuições
 Esse repositório é focado no meu aprendizado, mas sugestões e melhorias são bem-vindas!
+
+# Licença
+Este projeto é apenas para fins educacionais e não possui uma licença específica.
 
